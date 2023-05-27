@@ -1,0 +1,3 @@
+clang
+-Iinc/
+-I/usr/local/homebrew/Cellar/llvm@11/11.1.0_3/lib/clang/11.1.0/include/
